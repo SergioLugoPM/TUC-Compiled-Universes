@@ -7,7 +7,7 @@
 **Preprint:** [arXiv link — pending endorsement]  
 **Preprint DOI (Zenodo):** https://doi.org/10.5281/zenodo.20711406  
 **Code DOI (Zenodo):** https://doi.org/10.5281/zenodo.20719848  
-**Contact:** sergiolugo@outlook.com  
+**Contact:** serche_lugo@outlook.com  
 
 ---
 
