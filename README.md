@@ -3,8 +3,10 @@
 
 **Author:** Sergio Enrique Lugo Gutierrez  
 **Affiliation:** Independent Researcher, Ciudad de México  
+**Repository:** https://github.com/SergioLugoPM/TUC-Compiled-Universe  
 **Preprint:** [arXiv link — pending endorsement]  
-**DOI:** [Zenodo DOI — pending upload]  
+**Preprint DOI (Zenodo):** https://doi.org/10.5281/zenodo.20711406  
+**Code DOI (Zenodo):** https://doi.org/10.5281/zenodo.20719848  
 **Contact:** sergiolugo@outlook.com  
 
 ---
@@ -146,8 +148,23 @@ If you use this code, please cite:
   title     = {Functional Stability as a Cosmological Selection Criterion:
                A Framework for Universe Viability},
   year      = {2026},
-  publisher = {arXiv},
-  note      = {arXiv preprint gr-qc/[number pending]}
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20711406},
+  url       = {https://doi.org/10.5281/zenodo.20711406}
+}
+```
+
+For the code specifically:
+
+```bibtex
+@software{lugo2026tuccode,
+  author    = {Lugo Gutierrez, Sergio Enrique},
+  title     = {TUC-Compiled-Universe: Computational Simulation of the
+               Configuration Space},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20719848},
+  url       = {https://doi.org/10.5281/zenodo.20719848}
 }
 ```
 
